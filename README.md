@@ -1,17 +1,21 @@
 [![MasterHead](https://media.licdn.com/dms/image/v2/D4E16AQH0ubAh9-Kbtg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1694698995503?e=1742428800&v=beta&t=IndCf1uJFVDY0SYmotFmRrY-Ep1TA4kWpRTI5MStvzY)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Ahmed Hamdy</h1>
-<h3 align="center">A flutter developer from Egypt</h3>
+<h3 align="center">A Full-Stack Developer from Egypt</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedhamdy85&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedhamdy85" /> </p>
 
-- 🌱 I’m currently learning **flutter & dart**
 
 - 💬 Ask me about **flutter**
+- 💬 Ask me about **React**
+- 💬 Ask me about **Django**
+- 💬 Ask me about **Flask**
+- 💬 Ask me about **Python**
+- 💬 Ask me about **JavaScript**
 
-- 📫 How to reach me **ah2261@fayoum.edu.eg**
+- 📫 How to reach me **ahme.hamdy85@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
