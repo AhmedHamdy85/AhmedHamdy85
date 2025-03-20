@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D4E16AQH0ubAh9-Kbtg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1694698995503?e=1742428800&v=beta&t=IndCf1uJFVDY0SYmotFmRrY-Ep1TA4kWpRTI5MStvzY)](https://rishavchanda.io)
+[![MasterHead](https://github.com/AhmedHamdy85/AhmedHamdy85/blob/main/Group%201%20(2).png)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Ahmed Hamdy</h1>
 <h3 align="center">A Full-Stack Developer from Egypt</h3>
