@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/AhmedHamdy85/AhmedHamdy85/blob/main/logo.jpeg)](https://rishavchanda.io)
+[![MasterHead](https://github.com/AhmedHamdy85/AhmedHamdy85/blob/main/smallogo.png)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Ahmed Hamdy</h1>
 <h3 align="center">A Full-Stack Developer from Egypt</h3>
